@@ -1,5 +1,5 @@
 # socket chat application
-This is the repository of Computer Networks final project. We develop a UDP chatting and FTP file transfer application with sockets in Python, which supports following functionalities
+This is the repository of Computer Networks final project. We develop a UDP chatting and TCP file transfer application with sockets in Python, which supports following functionalities
 
 * Registration with encrypted password
 * Online and offline messaging
