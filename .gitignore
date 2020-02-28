@@ -33,6 +33,7 @@ obj/**
 tmp/**
 .python-version
 .vs/
+.vscode/
 test-results.xml
 !build/
 debug*.log
