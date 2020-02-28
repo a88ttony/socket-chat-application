@@ -21,7 +21,7 @@ This is the repository of Computer Networks final project. We develop a UDP chat
 <div align=center><img width="400" src="https://github.com/a88ttony/socket-chat-application/blob/master/demo_image/choose_friend.png"/></div>
 <br/>     
  
-* **Messaging and chatting history** - the application supports online and offline messaging, and it stores all your chatting history with other users  
+* **Online/Offline messaging and historical messages** - the application supports online and offline messaging, and it stores all your chatting history with other users  
   
 <div align=center><img width="800" src="https://github.com/a88ttony/socket-chat-application/blob/master/demo_image/chatting_history.png"/></div>
 <br/>   
