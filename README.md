@@ -31,6 +31,6 @@ This is the repository of Computer Networks final project. We develop a UDP chat
 <div align=center><img width="400" src="https://github.com/a88ttony/socket-chat-application/blob/master/demo_image/file_transfer.png"/></div>
 <br/>  
     
-* **Default file receiver** - the application will createa default folder ```downloads``` for the receiver to store receiving files
+* **Default file receiver** - the application will create a default folder ```downloads``` for the receiver to store receiving files
   
 <div align=center><img width="400" src="https://github.com/a88ttony/socket-chat-application/blob/master/demo_image/receive_file.png"/></div>
